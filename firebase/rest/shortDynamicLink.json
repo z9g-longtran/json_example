@@ -1,1 +1,12 @@
-{"a":1}
+{
+    "dynamicLinkInfo": {
+        "dynamicLinkDomain": "z9gfirebase1.page.link",
+        "link": "https://github.com/docker-library/php?a=2",
+        "navigationInfo": {
+            "enableForcedRedirect": true
+        }
+    },
+    "suffix": {
+        "option": "SHORT"
+    }
+}
