@@ -1,0 +1,18 @@
+// https://firebasedurablelinks-pa.clients6.google.com/v1/updateDurableLink?alt=json&key=AIzaSyDovLKo3djdRbs963vqKdbj-geRWyzMTrg
+
+{
+    "durableLink":{
+        "shortDurableLink":{
+            "link":"https://z9gfirebase2.page.link/abc"
+        }
+    },
+    "newDurableLink":{
+        "shortDurableLink":{
+            "visibility":"ARCHIVED"
+        }
+    },
+    "newDurableLinkMask":"short_durable_link",
+    "projectInfo":{
+        "projectNumber":"826114883800"
+    }
+}
